@@ -13,7 +13,7 @@
 
 - 🎯 Trabalho com <strong>mídia paga</strong> (Meta Ads e Google Ads) focado em performance.
 - 💻 Iniciando na programação com foco em <strong>JavaScript</strong> e desenvolvimento web.
-- 🌱 Objetivo de médio prazo: me desenvolver para atuar como <strong>Full Stack</strong>.
+- 🌱 Objetivo de médio prazo: me desenvolver para atuar como <strong>Front-End</strong>.
 - 🧠 Meu jeito de aprender é na prática: estudar, praticar, repetir e ajustar até fazer sentido de verdade.
 
 ---
